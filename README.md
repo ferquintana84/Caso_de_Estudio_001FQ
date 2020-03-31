@@ -4,7 +4,9 @@
 # **Dataset y Descripción de Features:**
 
 
-# **Descripción del Caso de Estudio:** comenzaremos a trabajar en este proyecto a partir de un conjunto completo de datos sin procesar e intentaremos establecer Predicciones sobre los principales motivos que llevan a los empleados a ausentarte durante horas laborales, teniendo para tal efecto diferentes features o características que nos irán contando la historia.
+# **Descripción del Caso de Estudio:** 
+
+Comenzaremos a trabajar en este proyecto a partir de un conjunto completo de datos sin procesar e intentaremos establecer Predicciones sobre los principales motivos que llevan a los empleados a ausentarte durante horas laborales, teniendo para tal efecto diferentes features o características que nos irán contando la historia.
 
 **Definiendo el “Problema”**
 Ausentismo Laboral. Nos gustaría saber si se puede predecir que un empleado pierda o no, un número específico de horas en una jornada laboral.
